@@ -15,7 +15,7 @@ public class MessageServiceTest {
 	
     @Test
     public void testGetConcepto() {
-    	Assert.assertEquals("PruebaConcepto", MessageService.getConcepto());
+    	Assert.assertEquals("PruebaConceptoX", MessageService.getConcepto());
     }
 	
 }
